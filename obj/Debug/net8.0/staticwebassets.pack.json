@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/obj/Debug/net8.0/scopedcss/projectbundle/BooksApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BooksApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/0ed4a841-706d-44f5-a431-b41cf0521cec.jpeg",
+      "PackagePath": "staticwebassets/img/0ed4a841-706d-44f5-a431-b41cf0521cec.jpeg"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/2420c286-cb9c-4da4-a168-20929a9ab08e.png",
+      "PackagePath": "staticwebassets/img/2420c286-cb9c-4da4-a168-20929a9ab08e.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/25625564-0380-4667-96d7-fd9d2ade63b9.jpeg",
+      "PackagePath": "staticwebassets/img/25625564-0380-4667-96d7-fd9d2ade63b9.jpeg"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/280145a5-67c5-40cf-803e-dac8120d32ad.png",
+      "PackagePath": "staticwebassets/img/280145a5-67c5-40cf-803e-dac8120d32ad.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/3465d385-957e-4c91-b917-4fa898fa1460.png",
+      "PackagePath": "staticwebassets/img/3465d385-957e-4c91-b917-4fa898fa1460.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/6fecc66b-d26d-4364-9558-09460bf28e2f.jpeg",
+      "PackagePath": "staticwebassets/img/6fecc66b-d26d-4364-9558-09460bf28e2f.jpeg"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/87ba5ed1-8856-4d09-b578-a7cebe60b84c.heic",
+      "PackagePath": "staticwebassets/img/87ba5ed1-8856-4d09-b578-a7cebe60b84c.heic"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/aad36372-0385-4c24-acbc-2dc1bcdf8e71.png",
+      "PackagePath": "staticwebassets/img/aad36372-0385-4c24-acbc-2dc1bcdf8e71.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/ad99dec5-02cf-4f9a-8306-b5d3f17ed92f.jpeg",
+      "PackagePath": "staticwebassets/img/ad99dec5-02cf-4f9a-8306-b5d3f17ed92f.jpeg"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/bfd39cb0-cfe5-404d-8ad1-b5943f05e985.heic",
+      "PackagePath": "staticwebassets/img/bfd39cb0-cfe5-404d-8ad1-b5943f05e985.heic"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/e0f15964-a532-4a2f-add0-a8c36b529446.png",
+      "PackagePath": "staticwebassets/img/e0f15964-a532-4a2f-add0-a8c36b529446.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/eeba4075-a4a4-44bb-a54e-1eaa71e69183.png",
+      "PackagePath": "staticwebassets/img/eeba4075-a4a4-44bb-a54e-1eaa71e69183.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/ef51d6d2-7bf9-4790-b9ab-65ed0ab07640.jpeg",
+      "PackagePath": "staticwebassets/img/ef51d6d2-7bf9-4790-b9ab-65ed0ab07640.jpeg"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/img/f43984aa-24a2-4091-86eb-79aaec110657.png",
+      "PackagePath": "staticwebassets/img/f43984aa-24a2-4091-86eb-79aaec110657.png"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/iremericek/Documents/GitHub/BooksApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BooksApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BooksApp.props",
+      "PackagePath": "build\\BooksApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BooksApp.props",
+      "PackagePath": "buildMultiTargeting\\BooksApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BooksApp.props",
+      "PackagePath": "buildTransitive\\BooksApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
